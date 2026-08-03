@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -27,10 +28,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
