@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/devrajsinghal35/dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/devrajsinghal35/dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devrajsinghal35/dsa-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/devrajsinghal35/dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
