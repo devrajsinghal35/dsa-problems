@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/devrajsinghal35/dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -51,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
