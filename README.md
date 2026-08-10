@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devrajsinghal35/dsa-problems/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devrajsinghal35/dsa-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devrajsinghal35/dsa-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devrajsinghal35/dsa-problems/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/devrajsinghal35/dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1768-merge-strings-alternately](https://github.com/devrajsinghal35/dsa-problems/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/devrajsinghal35/dsa-problems/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
