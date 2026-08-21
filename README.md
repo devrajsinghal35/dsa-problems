@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devrajsinghal35/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devrajsinghal35/dsa-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devrajsinghal35/dsa-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/devrajsinghal35/dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/devrajsinghal35/dsa-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 ## Design
 |  |
 | ------- |
