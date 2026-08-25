@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/devrajsinghal35/dsa-problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devrajsinghal35/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devrajsinghal35/dsa-problems/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devrajsinghal35/dsa-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devrajsinghal35/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0234-palindrome-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/devrajsinghal35/dsa-problems/tree/master/1768-merge-strings-alternately) |
