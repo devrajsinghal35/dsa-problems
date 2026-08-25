@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/devrajsinghal35/dsa-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/devrajsinghal35/dsa-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/devrajsinghal35/dsa-problems/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/devrajsinghal35/dsa-problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0234-palindrome-linked-list) |
+| [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/devrajsinghal35/dsa-problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devrajsinghal35/dsa-problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 ## Simulation
 |  |
 | ------- |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
