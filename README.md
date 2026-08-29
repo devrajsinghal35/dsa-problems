@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devrajsinghal35/dsa-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/devrajsinghal35/dsa-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/devrajsinghal35/dsa-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/devrajsinghal35/dsa-problems/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/devrajsinghal35/dsa-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/devrajsinghal35/dsa-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/devrajsinghal35/dsa-problems/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devrajsinghal35/dsa-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/devrajsinghal35/dsa-problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devrajsinghal35/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devrajsinghal35/dsa-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
