@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devrajsinghal35/dsa-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/devrajsinghal35/dsa-problems/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/devrajsinghal35/dsa-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/devrajsinghal35/dsa-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/devrajsinghal35/dsa-problems/tree/master/0724-find-pivot-index) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devrajsinghal35/dsa-problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/devrajsinghal35/dsa-problems/tree/master/0682-baseball-game) |
 ## String
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/devrajsinghal35/dsa-problems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
