@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devrajsinghal35/dsa-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/devrajsinghal35/dsa-problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/devrajsinghal35/dsa-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/devrajsinghal35/dsa-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devrajsinghal35/dsa-problems/tree/master/0076-minimum-window-substring) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/devrajsinghal35/dsa-problems/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devrajsinghal35/dsa-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/devrajsinghal35/dsa-problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/devrajsinghal35/dsa-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/devrajsinghal35/dsa-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devrajsinghal35/dsa-problems/tree/master/0076-minimum-window-substring) |
