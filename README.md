@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/devrajsinghal35/dsa-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devrajsinghal35/dsa-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devrajsinghal35/dsa-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/devrajsinghal35/dsa-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devrajsinghal35/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 ## Depth-First Search
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/devrajsinghal35/dsa-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/devrajsinghal35/dsa-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -291,4 +295,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
