@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/devrajsinghal35/dsa-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devrajsinghal35/dsa-problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/devrajsinghal35/dsa-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/devrajsinghal35/dsa-problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/devrajsinghal35/dsa-problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/devrajsinghal35/dsa-problems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/devrajsinghal35/dsa-problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/devrajsinghal35/dsa-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devrajsinghal35/dsa-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/devrajsinghal35/dsa-problems/tree/master/0658-find-k-closest-elements) |
 | [1539-kth-missing-positive-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/1539-kth-missing-positive-number) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrajsinghal35/dsa-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/devrajsinghal35/dsa-problems/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0410-split-array-largest-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devrajsinghal35/dsa-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Monotonic Stack
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devrajsinghal35/dsa-problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devrajsinghal35/dsa-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/devrajsinghal35/dsa-problems/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/devrajsinghal35/dsa-problems/tree/master/0881-boats-to-save-people) |
 ## Simulation
 |  |
