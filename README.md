@@ -323,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/devrajsinghal35/dsa-problems/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/devrajsinghal35/dsa-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
