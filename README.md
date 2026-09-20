@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/devrajsinghal35/dsa-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/devrajsinghal35/dsa-problems/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devrajsinghal35/dsa-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/devrajsinghal35/dsa-problems/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/devrajsinghal35/dsa-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devrajsinghal35/dsa-problems/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/devrajsinghal35/dsa-problems/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
