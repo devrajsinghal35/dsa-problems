@@ -343,4 +343,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/devrajsinghal35/dsa-problems/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/devrajsinghal35/dsa-problems/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/devrajsinghal35/dsa-problems/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/devrajsinghal35/dsa-problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
